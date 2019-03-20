@@ -1,0 +1,414 @@
+Jul  3 11:53:06 10.71.51.0 u90126335 Connection from 10.71.51.0 port 36952 on 217.160.155.192 port 22
+Jul  3 11:53:07 10.71.51.0 u90126335 Accepted password for u90126335 from 10.71.51.0 port 36952 ssh2
+Jul  3 11:53:07 10.71.51.0 u90126335 Starting session: subsystem 'sftp' for u90126335 from 10.71.51.0 port 36952
+Jul  3 11:53:07 10.71.51.0 u90126335 session opened for local user u90126335 from [10.71.51.0]
+Jul  3 11:54:27 10.71.51.0 u90126335 Connection from 10.71.51.0 port 62200 on 217.160.155.192 port 22
+Jul  3 11:54:28 10.71.51.0 u90126335 Accepted password for u90126335 from 10.71.51.0 port 62200 ssh2
+Jul  3 11:54:28 10.71.51.0 u90126335 Starting session: subsystem 'sftp' for u90126335 from 10.71.51.0 port 62200
+Jul  3 11:54:28 10.71.51.0 u90126335 session opened for local user u90126335 from [10.71.51.0]
+Jul  3 11:54:27 10.71.51.0 u90126335 Connection from 10.71.51.0 port 62218 on 217.160.155.192 port 22
+Jul  3 11:54:29 10.71.51.0 u90126335 Accepted password for u90126335 from 10.71.51.0 port 62218 ssh2
+Jul  3 11:54:29 10.71.51.0 u90126335 sent status No such file
+Jul  3 11:54:29 10.71.51.0 u90126335 Starting session: subsystem 'sftp' for u90126335 from 10.71.51.0 port 62218
+Jul  3 11:54:29 10.71.51.0 u90126335 session opened for local user u90126335 from [10.71.51.0]
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/carousel.inc.php" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/carousel.inc.php" bytes read 1733 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|1733|0|0|0|2f6361726f7573656c2e696e632e706870|]
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/connection.inc.php" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/cv.pdf" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/connection.inc.php" bytes read 206 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|206|0|0|0|2f636f6e6e656374696f6e2e696e632e706870|]
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/CvSaidSoumah.pdf" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/cv.pdf" bytes read 403285 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|403285|0|0|0|2f63762e706466|]
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/db69330357326042018.sql" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/db69330357326042018.sql" bytes read 6086 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|6086|0|0|0|2f646236393333303335373332363034323031382e73716c|]
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/CvSaidSoumah.pdf" bytes read 1233699 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|1233699|0|0|0|2f437653616964536f756d61682e706466|]
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/index.php" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/sendemail.php" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/index.php" bytes read 16612 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|16612|0|0|0|2f696e6465782e706870|]
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/sendemail.php" bytes read 1145 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|1145|0|0|0|2f73656e64656d61696c2e706870|]
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/style.css" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/css/moveme.css" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/style.css" bytes read 8162 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|8162|0|0|0|2f7374796c652e637373|]
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/css/moveme.css" bytes read 1712 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|1712|0|0|0|2f6373732f6d6f76656d652e637373|]
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/css/bootstrap.min.css" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 open "/css/bootstrap.min.css.map" flags READ mode 0666
+Jul  3 11:54:29 10.71.51.0 u90126335 close "/css/bootstrap.min.css" bytes read 121200 written 0
+Jul  3 11:54:29 10.71.51.0 u90126335 [10.71.51.0|get|0|121200|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/css/bootstrap.css" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/css/bootstrap.min.css.map" bytes read 542194 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|1|542194|0|0|0|2f6373732f626f6f7473747261702e6d696e2e6373732e6d6170|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/css/bootstrap.css.map" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/css/bootstrap.css" bytes read 146010 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|146010|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/css/bootstrap-theme.min.css.map" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/css/bootstrap-theme.min.css.map" bytes read 25648 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|25648|0|0|0|2f6373732f626f6f7473747261702d7468656d652e6d696e2e6373732e6d6170|]
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/css/bootstrap.css.map" bytes read 389287 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|389287|0|0|0|2f6373732f626f6f7473747261702e6373732e6d6170|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/css/bootstrap-theme.min.css" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/css/bootstrap-theme.css.map" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/css/bootstrap-theme.min.css" bytes read 23409 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|23409|0|0|0|2f6373732f626f6f7473747261702d7468656d652e6d696e2e637373|]
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/css/bootstrap-theme.css.map" bytes read 47706 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|47706|0|0|0|2f6373732f626f6f7473747261702d7468656d652e6373732e6d6170|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/css/bootstrap-theme.css" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/css/bootstrap-theme.css" bytes read 26132 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|26132|0|0|0|2f6373732f626f6f7473747261702d7468656d652e637373|]
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|18028|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|23424|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|45404|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|20127|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|108738|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/PHPMailer/SMTP.php" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/PHPMailer/PHPMailer.php" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/PHPMailer/SMTP.php" bytes read 42761 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|42761|0|0|0|2f666f6e74732f5048504d61696c65722f534d54502e706870|]
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/PHPMailer/PHPMailer.php" bytes read 150991 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|150991|0|0|0|2f666f6e74732f5048504d61696c65722f5048504d61696c65722e706870|]
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/PHPMailer/POP3.php" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 open "/fonts/PHPMailer/OAuth.php" flags READ mode 0666
+Jul  3 11:54:30 10.71.51.0 u90126335 close "/fonts/PHPMailer/POP3.php" bytes read 11031 written 0
+Jul  3 11:54:30 10.71.51.0 u90126335 [10.71.51.0|get|0|11031|0|0|0|2f666f6e74732f5048504d61696c65722f504f50332e706870|]
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/fonts/PHPMailer/OAuth.php" bytes read 3744 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|1|3744|0|0|0|2f666f6e74732f5048504d61696c65722f4f417574682e706870|]
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/fonts/PHPMailer/Exception.php" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/wordpress.jpg" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/fonts/PHPMailer/Exception.php" bytes read 1214 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|1214|0|0|0|2f666f6e74732f5048504d61696c65722f457863657074696f6e2e706870|]
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/wordpress.jpg" bytes read 64504 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|64504|0|0|0|2f696d616765732f776f726470726573732e6a7067|]
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/winstore.jpg" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/user.jpg" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/winstore.jpg" bytes read 4241 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|4241|0|0|0|2f696d616765732f77696e73746f72652e6a7067|]
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/user.jpg" bytes read 2202 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|2202|0|0|0|2f696d616765732f757365722e6a7067|]
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/twitter.png" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/te\314\201le\314\201chargement-1516721038.jpeg" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/twitter.png" bytes read 694 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|694|0|0|0|2f696d616765732f747769747465722e706e67|]
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/success.png" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/te\314\201le\314\201chargement-1516721038.jpeg" bytes read 18783 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|18783|0|0|0|2f696d616765732f7465cc816c65cc816368617267656d656e742d313531363732313033382e6a706567|]
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/success.png" bytes read 399 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|399|0|0|0|2f696d616765732f737563636573732e706e67|]
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/SQLLogo.png" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/SQLLogo.gif" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/SQLLogo.png" bytes read 637466 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|637466|0|0|0|2f696d616765732f53514c4c6f676f2e706e67|]
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/SQLLogo.gif" bytes read 655659 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|655659|0|0|0|2f696d616765732f53514c4c6f676f2e676966|]
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/SQL.png" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/speed.jpg" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/SQL.png" bytes read 2456 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|2456|0|0|0|2f696d616765732f53514c2e706e67|]
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/speed.jpg" bytes read 16722 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|16722|0|0|0|2f696d616765732f73706565642e6a7067|]
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/slide3.jpg" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 open "/images/slide2.jpg" flags READ mode 0666
+Jul  3 11:54:31 10.71.51.0 u90126335 close "/images/slide3.jpg" bytes read 128183 written 0
+Jul  3 11:54:31 10.71.51.0 u90126335 [10.71.51.0|get|0|128183|0|0|0|2f696d616765732f736c696465332e6a7067|]
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/slide2.jpg" bytes read 126578 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|1|126578|0|0|0|2f696d616765732f736c696465322e6a7067|]
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/slide1.jpg" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/skyline.png" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/slide1.jpg" bytes read 122641 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|0|122641|0|0|0|2f696d616765732f736c696465312e6a7067|]
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/skyline.png" bytes read 7030 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|0|7030|0|0|0|2f696d616765732f736b796c696e652e706e67|]
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/shattered.png" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/scenic.jpg" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/shattered.png" bytes read 178487 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|0|178487|0|0|0|2f696d616765732f7368617474657265642e706e67|]
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/scenic.jpg" bytes read 12086 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|0|12086|0|0|0|2f696d616765732f7363656e69632e6a7067|]
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/said3.jpg" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/said2.jpg" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/said3.jpg" bytes read 1615393 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|0|1615393|0|0|0|2f696d616765732f73616964332e6a7067|]
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/said12.jpg" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/said2.jpg" bytes read 3296735 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|0|3296735|0|0|0|2f696d616765732f73616964322e6a7067|]
+Jul  3 11:54:32 10.71.51.0 u90126335 open "/images/said11.jpg" flags READ mode 0666
+Jul  3 11:54:32 10.71.51.0 u90126335 close "/images/said11.jpg" bytes read 1342713 written 0
+Jul  3 11:54:32 10.71.51.0 u90126335 [10.71.51.0|get|0|1342713|0|0|0|2f696d616765732f7361696431312e6a7067|]
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/said1.jpg" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/said1.jpg" bytes read 855434 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|855434|0|0|0|2f696d616765732f73616964312e6a7067|]
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/safety.jpg" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/safety.jpg" bytes read 14097 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|14097|0|0|0|2f696d616765732f7361666574792e6a7067|]
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/purpattern.png" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/purpattern.png" bytes read 12985 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|12985|0|0|0|2f696d616765732f7075727061747465726e2e706e67|]
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/said12.jpg" bytes read 12524017 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|1|12524017|0|0|0|2f696d616765732f7361696431322e6a7067|]
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/purpalt.png" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/presse_06.png" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/purpalt.png" bytes read 3567 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|3567|0|0|0|2f696d616765732f70757270616c742e706e67|]
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/presse_05.jpg" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/presse_06.png" bytes read 2712 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|2712|0|0|0|2f696d616765732f7072657373655f30362e706e67|]
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/presse_05.jpg" bytes read 2561 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/presse_01.jpg" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|2561|0|0|0|2f696d616765732f7072657373655f30352e6a7067|]
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/presse_01.jpg" bytes read 1483 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|1483|0|0|0|2f696d616765732f7072657373655f30312e6a7067|]
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/phpMysql.png" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 open "/images/ordi.jpg" flags READ mode 0666
+Jul  3 11:54:33 10.71.51.0 u90126335 close "/images/phpMysql.png" bytes read 27364 written 0
+Jul  3 11:54:33 10.71.51.0 u90126335 [10.71.51.0|get|0|27364|0|0|0|2f696d616765732f7068704d7973716c2e706e67|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/office.jpg" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/office.jpg" bytes read 23863 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|23863|0|0|0|2f696d616765732f6f66666963652e6a7067|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/ninja.png" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/ninja.png" bytes read 884 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|884|0|0|0|2f696d616765732f6e696e6a612e706e67|]
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/ordi.jpg" bytes read 2775480 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|1|2775480|0|0|0|2f696d616765732f6f7264692e6a7067|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/moveMe.png" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/logo-electrique-assurancesvelo.png" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/moveMe.png" bytes read 3205 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|3205|0|0|0|2f696d616765732f6d6f76654d652e706e67|]
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/logo-electrique-assurancesvelo.png" bytes read 15466 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|15466|0|0|0|2f696d616765732f6c6f676f2d656c65637472697175652d6173737572616e63657376656c6f2e706e67|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/logo-classique-assurancesvelo.png" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/logo-assurance-velo.png" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/logo-classique-assurancesvelo.png" bytes read 15362 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|15362|0|0|0|2f696d616765732f6c6f676f2d636c617373697175652d6173737572616e63657376656c6f2e706e67|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/lazy-morning-programming-in-a-bed-picjumbo-com.jpg" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/logo-assurance-velo.png" bytes read 6394 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|6394|0|0|0|2f696d616765732f6c6f676f2d6173737572616e63652d76656c6f2e706e67|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/index.php" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/index.php" bytes read 16602 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|16602|0|0|0|2f696d616765732f696e6465782e706870|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/incoming-call.png" flags READ mode 0666
+Jul  3 11:54:34 10.71.51.0 u90126335 close "/images/incoming-call.png" bytes read 666 written 0
+Jul  3 11:54:34 10.71.51.0 u90126335 [10.71.51.0|get|0|666|0|0|0|2f696d616765732f696e636f6d696e672d63616c6c2e706e67|]
+Jul  3 11:54:34 10.71.51.0 u90126335 open "/images/IMG_20171005_102622.jpg" flags READ mode 0666
+Jul  3 11:54:35 10.71.51.0 u90126335 close "/images/lazy-morning-programming-in-a-bed-picjumbo-com.jpg" bytes read 4595413 written 0
+Jul  3 11:54:35 10.71.51.0 u90126335 [10.71.51.0|get|1|4595413|0|0|0|2f696d616765732f6c617a792d6d6f726e696e672d70726f6772616d6d696e672d696e2d612d6265642d7069636a756d626f2d636f6d2e6a7067|]
+Jul  3 11:54:35 10.71.51.0 u90126335 open "/images/IMG_20171005_102601.jpg" flags READ mode 0666
+Jul  3 11:54:35 10.71.51.0 u90126335 close "/images/IMG_20171005_102622.jpg" bytes read 2302342 written 0
+Jul  3 11:54:35 10.71.51.0 u90126335 [10.71.51.0|get|1|2302342|0|0|0|2f696d616765732f494d475f32303137313030355f3130323632322e6a7067|]
+Jul  3 11:54:35 10.71.51.0 u90126335 open "/images/IMG_20170923_201132.jpg" flags READ mode 0666
+Jul  3 11:54:35 10.71.51.0 u90126335 close "/images/IMG_20170923_201132.jpg" bytes read 1547543 written 0
+Jul  3 11:54:35 10.71.51.0 u90126335 [10.71.51.0|get|0|1547543|0|0|0|2f696d616765732f494d475f32303137303932335f3230313133322e6a7067|]
+Jul  3 11:54:35 10.71.51.0 u90126335 close "/images/IMG_20171005_102601.jpg" bytes read 3432685 written 0
+Jul  3 11:54:35 10.71.51.0 u90126335 [10.71.51.0|get|0|3432685|0|0|0|2f696d616765732f494d475f32303137313030355f3130323630312e6a7067|]
+Jul  3 11:54:35 10.71.51.0 u90126335 open "/images/IMG_20170923_201125.jpg" flags READ mode 0666
+Jul  3 11:54:35 10.71.51.0 u90126335 open "/images/IMG_20170923_201058.jpg" flags READ mode 0666
+Jul  3 11:54:35 10.71.51.0 u90126335 close "/images/IMG_20170923_201125.jpg" bytes read 1550384 written 0
+Jul  3 11:54:35 10.71.51.0 u90126335 [10.71.51.0|get|0|1550384|0|0|0|2f696d616765732f494d475f32303137303932335f3230313132352e6a7067|]
+Jul  3 11:54:35 10.71.51.0 u90126335 close "/images/IMG_20170923_201058.jpg" bytes read 1497059 written 0
+Jul  3 11:54:35 10.71.51.0 u90126335 [10.71.51.0|get|0|1497059|0|0|0|2f696d616765732f494d475f32303137303932335f3230313035382e6a7067|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/html5css3.png" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/gplay.jpg" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/html5css3.png" bytes read 14573 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|14573|0|0|0|2f696d616765732f68746d6c35637373332e706e67|]
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/gplay.jpg" bytes read 4321 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|4321|0|0|0|2f696d616765732f67706c61792e6a7067|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/github.png" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/ftpFilleZilla.PNG" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/github.png" bytes read 4624 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|4624|0|0|0|2f696d616765732f6769746875622e706e67|]
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/ftpFilleZilla.PNG" bytes read 50999 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|50999|0|0|0|2f696d616765732f66747046696c6c655a696c6c612e504e47|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/free.jpg" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/footer-degrade.jpg" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/free.jpg" bytes read 28454 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|28454|0|0|0|2f696d616765732f667265652e6a7067|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/facebook.png" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/footer-degrade.jpg" bytes read 536 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|536|0|0|0|2f696d616765732f666f6f7465722d646567726164652e6a7067|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/eco.jpg" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/facebook.png" bytes read 556 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|556|0|0|0|2f696d616765732f66616365626f6f6b2e706e67|]
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/eco.jpg" bytes read 12383 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|12383|0|0|0|2f696d616765732f65636f2e6a7067|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/client-logo8.png" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/client-logo8.png" bytes read 12698 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|12698|0|0|0|2f696d616765732f636c69656e742d6c6f676f382e706e67|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/client-logo7.png" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/client-logo6.png" flags READ mode 0666
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/client-logo7.png" bytes read 14611 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|14611|0|0|0|2f696d616765732f636c69656e742d6c6f676f372e706e67|]
+Jul  3 11:54:36 10.71.51.0 u90126335 close "/images/client-logo6.png" bytes read 12652 written 0
+Jul  3 11:54:36 10.71.51.0 u90126335 [10.71.51.0|get|0|12652|0|0|0|2f696d616765732f636c69656e742d6c6f676f362e706e67|]
+Jul  3 11:54:36 10.71.51.0 u90126335 open "/images/client-logo5.png" flags READ mode 0666
+Jul  3 11:54:37 10.71.51.0 u90126335 open "/images/client-logo4.png" flags READ mode 0666
+Jul  3 11:54:37 10.71.51.0 u90126335 close "/images/client-logo5.png" bytes read 11605 written 0
+Jul  3 11:54:37 10.71.51.0 u90126335 [10.71.51.0|get|1|11605|0|0|0|2f696d616765732f636c69656e742d6c6f676f352e706e67|]
+Jul  3 11:54:37 10.71.51.0 u90126335 close "/images/client-logo4.png" bytes read 11592 written 0
+Jul  3 11:54:37 10.71.51.0 u90126335 [10.71.51.0|get|0|11592|0|0|0|2f696d616765732f636c69656e742d6c6f676f342e706e67|]
+Jul  3 11:54:37 10.71.51.0 u90126335 open "/images/client-logo3.png" flags READ mode 0666
+Jul  3 11:54:37 10.71.51.0 u90126335 open "/images/client-logo2.png" flags READ mode 0666
+Jul  3 11:54:37 10.71.51.0 u90126335 close "/images/client-logo3.png" bytes read 13645 written 0
+Jul  3 11:54:37 10.71.51.0 u90126335 [10.71.51.0|get|0|13645|0|0|0|2f696d616765732f636c69656e742d6c6f676f332e706e67|]
+Jul  3 11:54:37 10.71.51.0 u90126335 close "/images/client-logo2.png" bytes read 9259 written 0
+Jul  3 11:54:37 10.71.51.0 u90126335 [10.71.51.0|get|0|9259|0|0|0|2f696d616765732f636c69656e742d6c6f676f322e706e67|]
+Jul  3 11:54:37 10.71.51.0 u90126335 open "/images/client-logo1.png" flags READ mode 0666
+Jul  3 11:54:37 10.71.51.0 u90126335 open "/images/circle.png" flags READ mode 0666
+Jul  3 11:54:37 10.71.51.0 u90126335 close "/images/client-logo1.png" bytes read 14842 written 0
+Jul  3 11:54:37 10.71.51.0 u90126335 [10.71.51.0|get|0|14842|0|0|0|2f696d616765732f636c69656e742d6c6f676f312e706e67|]
+Jul  3 11:54:37 10.71.51.0 u90126335 close "/images/circle.png" bytes read 573 written 0
+Jul  3 11:54:37 10.71.51.0 u90126335 [10.71.51.0|get|0|573|0|0|0|2f696d616765732f636972636c652e706e67|]
+Jul  3 11:54:37 10.71.51.0 u90126335 open "/images/cancel.png" flags READ mode 0666
+Jul  3 11:54:37 10.71.51.0 u90126335 open "/images/bootstrap.png" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/cancel.png" bytes read 458 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|1|458|0|0|0|2f696d616765732f63616e63656c2e706e67|]
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/bootstrap.png" bytes read 8726 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|1|8726|0|0|0|2f696d616765732f626f6f7473747261702e706e67|]
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/blog3.jpg" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/blog2.jpg" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/blog3.jpg" bytes read 73513 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|0|73513|0|0|0|2f696d616765732f626c6f67332e6a7067|]
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/blog1.jpg" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/blog2.jpg" bytes read 414091 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|0|414091|0|0|0|2f696d616765732f626c6f67322e6a7067|]
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/blog1.jpg" bytes read 72195 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|0|72195|0|0|0|2f696d616765732f626c6f67312e6a7067|]
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/bbstore.jpg" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/banPhp.jpg" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/bbstore.jpg" bytes read 4379 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|0|4379|0|0|0|2f696d616765732f626273746f72652e6a7067|]
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/appstore.jpg" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/banPhp.jpg" bytes read 4595413 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|0|4595413|0|0|0|2f696d616765732f62616e5068702e6a7067|]
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/appstore.jpg" bytes read 4915 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|0|4915|0|0|0|2f696d616765732f61707073746f72652e6a7067|]
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/app.png" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/813.jpg" flags READ mode 0666
+Jul  3 11:54:38 10.71.51.0 u90126335 close "/images/app.png" bytes read 339488 written 0
+Jul  3 11:54:38 10.71.51.0 u90126335 [10.71.51.0|get|0|339488|0|0|0|2f696d616765732f6170702e706e67|]
+Jul  3 11:54:38 10.71.51.0 u90126335 open "/images/101811.jpg" flags READ mode 0666
+Jul  3 11:54:39 10.71.51.0 u90126335 close "/images/101811.jpg" bytes read 8283689 written 0
+Jul  3 11:54:39 10.71.51.0 u90126335 close "/images/813.jpg" bytes read 6992513 written 0
+Jul  3 11:54:39 10.71.51.0 u90126335 [10.71.51.0|get|1|8283689|0|0|0|2f696d616765732f3130313831312e6a7067|]
+Jul  3 11:54:39 10.71.51.0 u90126335 [10.71.51.0|get|1|6992513|0|0|0|2f696d616765732f3831332e6a7067|]
+Jul  3 11:54:39 10.71.51.0 u90126335 open "/images/10181.jpg" flags READ mode 0666
+Jul  3 11:54:39 10.71.51.0 u90126335 open "/images/1018.jpg" flags READ mode 0666
+Jul  3 11:54:40 10.71.51.0 u90126335 close "/images/10181.jpg" bytes read 9259722 written 0
+Jul  3 11:54:40 10.71.51.0 u90126335 [10.71.51.0|get|1|9259722|0|0|0|2f696d616765732f31303138312e6a7067|]
+Jul  3 11:54:40 10.71.51.0 u90126335 open "/js/respond.min.js" flags READ mode 0666
+Jul  3 11:54:40 10.71.51.0 u90126335 close "/images/1018.jpg" bytes read 9875990 written 0
+Jul  3 11:54:40 10.71.51.0 u90126335 [10.71.51.0|get|1|9875990|0|0|0|2f696d616765732f313031382e6a7067|]
+Jul  3 11:54:40 10.71.51.0 u90126335 close "/js/respond.min.js" bytes read 4047 written 0
+Jul  3 11:54:40 10.71.51.0 u90126335 [10.71.51.0|get|0|4047|0|0|0|2f6a732f726573706f6e642e6d696e2e6a73|]
+Jul  3 11:54:40 10.71.51.0 u90126335 open "/js/jQuery.js" flags READ mode 0666
+Jul  3 11:54:40 10.71.51.0 u90126335 open "/js/npm.js" flags READ mode 0666
+Jul  3 11:54:41 10.71.51.0 u90126335 close "/js/jQuery.js" bytes read 93106 written 0
+Jul  3 11:54:41 10.71.51.0 u90126335 [10.71.51.0|get|1|93106|0|0|0|2f6a732f6a51756572792e6a73|]
+Jul  3 11:54:41 10.71.51.0 u90126335 open "/js/html5shiv.js" flags READ mode 0666
+Jul  3 11:54:41 10.71.51.0 u90126335 close "/js/npm.js" bytes read 484 written 0
+Jul  3 11:54:41 10.71.51.0 u90126335 [10.71.51.0|get|1|484|0|0|0|2f6a732f6e706d2e6a73|]
+Jul  3 11:54:41 10.71.51.0 u90126335 open "/js/bootstrap.min.js" flags READ mode 0666
+Jul  3 11:54:41 10.71.51.0 u90126335 close "/js/html5shiv.js" bytes read 2429 written 0
+Jul  3 11:54:41 10.71.51.0 u90126335 [10.71.51.0|get|0|2429|0|0|0|2f6a732f68746d6c35736869762e6a73|]
+Jul  3 11:54:41 10.71.51.0 u90126335 close "/js/bootstrap.min.js" bytes read 37045 written 0
+Jul  3 11:54:41 10.71.51.0 u90126335 [10.71.51.0|get|0|37045|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Jul  3 11:54:41 10.71.51.0 u90126335 open "/js/bootstrap.js" flags READ mode 0666
+Jul  3 11:54:41 10.71.51.0 u90126335 close "/js/bootstrap.js" bytes read 69707 written 0
+Jul  3 11:54:41 10.71.51.0 u90126335 [10.71.51.0|get|0|69707|0|0|0|2f6a732f626f6f7473747261702e6a73|]
+Jul  3 11:54:41 10.71.51.0 u90126335 open "/js/assuranceVelo/index.php" flags READ mode 0666
+Jul  3 11:54:41 10.71.51.0 u90126335 close "/js/assuranceVelo/index.php" bytes read 6866 written 0
+Jul  3 11:54:41 10.71.51.0 u90126335 [10.71.51.0|get|0|6866|0|0|0|2f6a732f6173737572616e636556656c6f2f696e6465782e706870|]
+Jul  3 11:54:41 10.71.51.0 u90126335 open "/js/assuranceVelo/style.css" flags READ mode 0666
+Jul  3 11:54:41 10.71.51.0 u90126335 open "/js/assuranceVelo/images/twitter.png" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/style.css" bytes read 8162 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|1|8162|0|0|0|2f6a732f6173737572616e636556656c6f2f7374796c652e637373|]
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/twitter.png" bytes read 694 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|1|694|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f747769747465722e706e67|]
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/presse_06.png" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/te\314\201le\314\201chargement-1516721038.jpeg" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/te\314\201le\314\201chargement-1516721038.jpeg" bytes read 18783 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|0|18783|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f7465cc816c65cc816368617267656d656e742d313531363732313033382e6a706567|]
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/presse_06.png" bytes read 2712 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|0|2712|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f7072657373655f30362e706e67|]
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/success.png" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/presse_05.jpg" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/success.png" bytes read 399 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|0|399|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f737563636573732e706e67|]
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/presse_01.jpg" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/presse_05.jpg" bytes read 2561 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|0|2561|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f7072657373655f30352e6a7067|]
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/presse_01.jpg" bytes read 1483 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|0|1483|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f7072657373655f30312e6a7067|]
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/logo-electrique-assurancesvelo.png" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/logo-classique-assurancesvelo.png" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/logo-electrique-assurancesvelo.png" bytes read 15466 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|0|15466|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f6c6f676f2d656c65637472697175652d6173737572616e63657376656c6f2e706e67|]
+Jul  3 11:54:42 10.71.51.0 u90126335 close "/js/assuranceVelo/images/logo-classique-assurancesvelo.png" bytes read 15362 written 0
+Jul  3 11:54:42 10.71.51.0 u90126335 [10.71.51.0|get|0|15362|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f6c6f676f2d636c617373697175652d6173737572616e63657376656c6f2e706e67|]
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/logo-assurance-velo.png" flags READ mode 0666
+Jul  3 11:54:42 10.71.51.0 u90126335 open "/js/assuranceVelo/images/incoming-call.png" flags READ mode 0666
+Jul  3 11:54:43 10.71.51.0 u90126335 close "/js/assuranceVelo/images/incoming-call.png" bytes read 666 written 0
+Jul  3 11:54:43 10.71.51.0 u90126335 [10.71.51.0|get|1|666|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f696e636f6d696e672d63616c6c2e706e67|]
+Jul  3 11:54:43 10.71.51.0 u90126335 close "/js/assuranceVelo/images/logo-assurance-velo.png" bytes read 6394 written 0
+Jul  3 11:54:43 10.71.51.0 u90126335 [10.71.51.0|get|1|6394|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f6c6f676f2d6173737572616e63652d76656c6f2e706e67|]
+Jul  3 11:54:43 10.71.51.0 u90126335 open "/js/assuranceVelo/images/ftpFilleZilla.PNG" flags READ mode 0666
+Jul  3 11:54:43 10.71.51.0 u90126335 open "/js/assuranceVelo/images/footer-degrade.jpg" flags READ mode 0666
+Jul  3 11:54:43 10.71.51.0 u90126335 close "/js/assuranceVelo/images/ftpFilleZilla.PNG" bytes read 50999 written 0
+Jul  3 11:54:43 10.71.51.0 u90126335 [10.71.51.0|get|0|50999|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f66747046696c6c655a696c6c612e504e47|]
+Jul  3 11:54:43 10.71.51.0 u90126335 close "/js/assuranceVelo/images/footer-degrade.jpg" bytes read 536 written 0
+Jul  3 11:54:43 10.71.51.0 u90126335 [10.71.51.0|get|0|536|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f666f6f7465722d646567726164652e6a7067|]
+Jul  3 11:54:43 10.71.51.0 u90126335 open "/js/assuranceVelo/images/facebook.png" flags READ mode 0666
+Jul  3 11:54:43 10.71.51.0 u90126335 open "/js/assuranceVelo/images/circle.png" flags READ mode 0666
+Jul  3 11:54:43 10.71.51.0 u90126335 close "/js/assuranceVelo/images/facebook.png" bytes read 556 written 0
+Jul  3 11:54:43 10.71.51.0 u90126335 [10.71.51.0|get|0|556|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f66616365626f6f6b2e706e67|]
+Jul  3 11:54:43 10.71.51.0 u90126335 close "/js/assuranceVelo/images/circle.png" bytes read 573 written 0
+Jul  3 11:54:43 10.71.51.0 u90126335 [10.71.51.0|get|0|573|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f636972636c652e706e67|]
+Jul  3 11:54:43 10.71.51.0 u90126335 open "/js/assuranceVelo/images/cancel.png" flags READ mode 0666
+Jul  3 11:54:43 10.71.51.0 u90126335 open "/js/assuranceVelo/images/banPhp.jpg" flags READ mode 0666
+Jul  3 11:54:43 10.71.51.0 u90126335 close "/js/assuranceVelo/images/cancel.png" bytes read 458 written 0
+Jul  3 11:54:43 10.71.51.0 u90126335 [10.71.51.0|get|0|458|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f63616e63656c2e706e67|]
+Jul  3 11:54:43 10.71.51.0 u90126335 open "/js/assuranceVelo/images/813.jpg" flags READ mode 0666
+Jul  3 11:54:44 10.71.51.0 u90126335 close "/js/assuranceVelo/images/813.jpg" bytes read 6992513 written 0
+Jul  3 11:54:44 10.71.51.0 u90126335 close "/js/assuranceVelo/images/banPhp.jpg" bytes read 4595413 written 0
+Jul  3 11:54:44 10.71.51.0 u90126335 [10.71.51.0|get|1|6992513|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f3831332e6a7067|]
+Jul  3 11:54:44 10.71.51.0 u90126335 [10.71.51.0|get|1|4595413|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f62616e5068702e6a7067|]
+Jul  3 11:54:44 10.71.51.0 u90126335 open "/js/assuranceVelo/images/101811.jpg" flags READ mode 0666
+Jul  3 11:54:44 10.71.51.0 u90126335 open "/js/assuranceVelo/images/10181.jpg" flags READ mode 0666
+Jul  3 11:54:45 10.71.51.0 u90126335 close "/js/assuranceVelo/images/10181.jpg" bytes read 9259722 written 0
+Jul  3 11:54:45 10.71.51.0 u90126335 [10.71.51.0|get|1|9259722|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f31303138312e6a7067|]
+Jul  3 11:54:45 10.71.51.0 u90126335 open "/js/assuranceVelo/images/1018.jpg" flags READ mode 0666
+Jul  3 11:54:45 10.71.51.0 u90126335 close "/js/assuranceVelo/images/101811.jpg" bytes read 8283689 written 0
+Jul  3 11:54:45 10.71.51.0 u90126335 [10.71.51.0|get|1|8283689|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f3130313831312e6a7067|]
+Jul  3 11:54:45 10.71.51.0 u90126335 open "/logs/access.log.26.6.gz" flags READ mode 0666
+Jul  3 11:54:45 10.71.51.0 u90126335 close "/logs/access.log.26.6.gz" bytes read 1180 written 0
+Jul  3 11:54:45 10.71.51.0 u90126335 [10.71.51.0|get|0|1180|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e362e677a|]
+Jul  3 11:54:45 10.71.51.0 u90126335 open "/logs/access.log.26.4.gz" flags READ mode 0666
+Jul  3 11:54:45 10.71.51.0 u90126335 close "/logs/access.log.26.4.gz" bytes read 767 written 0
+Jul  3 11:54:45 10.71.51.0 u90126335 [10.71.51.0|get|0|767|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e342e677a|]
+Jul  3 11:54:46 10.71.51.0 u90126335 open "/logs/access.log.26.1.gz" flags READ mode 0666
+Jul  3 11:54:46 10.71.51.0 u90126335 close "/logs/access.log.26.1.gz" bytes read 881 written 0
+Jul  3 11:54:46 10.71.51.0 u90126335 [10.71.51.0|get|0|881|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e312e677a|]
+Jul  3 11:54:46 10.71.51.0 u90126335 open "/logs/access.log.23.gz" flags READ mode 0666
+Jul  3 11:54:46 10.71.51.0 u90126335 close "/logs/access.log.23.gz" bytes read 3032 written 0
+Jul  3 11:54:46 10.71.51.0 u90126335 [10.71.51.0|get|0|3032|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e677a|]
+Jul  3 11:54:46 10.71.51.0 u90126335 open "/logs/access.log.22.gz" flags READ mode 0666
+Jul  3 11:54:46 10.71.51.0 u90126335 close "/js/assuranceVelo/images/1018.jpg" bytes read 9875990 written 0
+Jul  3 11:54:46 10.71.51.0 u90126335 [10.71.51.0|get|1|9875990|0|0|0|2f6a732f6173737572616e636556656c6f2f696d616765732f313031382e6a7067|]
+Jul  3 11:54:46 10.71.51.0 u90126335 close "/logs/access.log.22.gz" bytes read 3868 written 0
+Jul  3 11:54:46 10.71.51.0 u90126335 [10.71.51.0|get|0|3868|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e677a|]
+Jul  3 11:54:46 10.71.51.0 u90126335 open "/logs/access.log.27.2" flags READ mode 0666
+Jul  3 11:54:46 10.71.51.0 u90126335 open "/logs/sftp.log" flags READ mode 0666
